@@ -4,12 +4,30 @@ A Flutter project by AZ Ackmatoff <br>
 Flutter video trim<br>
 Flutter video cut<br>
 Flutter video cut by giving fixed duration<br><br><br>
-![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video1.jpg?raw=true)<br>
-![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video2.jpg?raw=true)<br>
-![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video3.jpg?raw=true)<br>
-![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video4.jpg?raw=true)<br>
-![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video5.jpg?raw=true)<br>
-![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video6.jpg?raw=true)<br>
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video1.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video2.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video3.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
+  </div>
+</div>
+<br><br><br>
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video4.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video5.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video6.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
+  </div>
+</div>
+
 
 
 
