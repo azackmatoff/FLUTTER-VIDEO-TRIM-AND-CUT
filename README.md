@@ -30,7 +30,18 @@ Flutter video cut by giving fixed duration<br><br><br>
 
 
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 ## Getting Started
 
