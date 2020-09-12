@@ -4,44 +4,22 @@ A Flutter project by AZ Ackmatoff <br>
 Flutter video trim<br>
 Flutter video cut<br>
 Flutter video cut by giving fixed duration<br><br><br>
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video1.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video2.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video3.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
-  </div>
-</div>
-<br><br><br>
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video4.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video5.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video6.jpg" alt="Video Trim and Cut in Flutter" style="width:100%">
-  </div>
-</div>
 
 
+## Screenshots
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+<p float="left">
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video1.jpg" width="200" />
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video2.jpg" width="200" /> 
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video3.jpg" width="200" />
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video4.jpg" width="200" />
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video5.jpg" width="200" />
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video6.jpg" width="200" />
+ 
+</p>
+
+
 
 ## Getting Started
 
