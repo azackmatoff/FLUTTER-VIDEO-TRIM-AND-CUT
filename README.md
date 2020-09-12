@@ -10,12 +10,12 @@ Flutter video cut by giving fixed duration<br><br><br>
 
 
 <p float="left">
-  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video1.jpg" width="200" />
-  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video2.jpg" width="200" /> 
-  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video3.jpg" width="200" />
-  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video4.jpg" width="200" />
-  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video5.jpg" width="200" />
-  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video6.jpg" width="200" />
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video1.jpg" width="300" />
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video2.jpg" width="300" /> 
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video3.jpg" width="300" />
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video4.jpg" width="300" />
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video5.jpg" width="300" />
+  <img src="https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video6.jpg" width="300" />
  
 </p>
 
