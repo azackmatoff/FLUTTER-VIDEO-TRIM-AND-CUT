@@ -1,6 +1,11 @@
-# videotrimandcut
+# FLUTTER VIDEO TRIM AND CUT BY GIVING FIXED DURATION
 
-A new Flutter project.
+A Flutter project by AZ Ackmatoff <br>
+Flutter video trim<br>
+Flutter video cut<br>
+Flutter video cut by giving fixed duration<br>
+
+
 
 ## Getting Started
 
