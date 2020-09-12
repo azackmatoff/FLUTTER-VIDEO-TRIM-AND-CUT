@@ -4,6 +4,13 @@ A Flutter project by AZ Ackmatoff <br>
 Flutter video trim<br>
 Flutter video cut<br>
 Flutter video cut by giving fixed duration<br>
+![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video1.jpg?raw=true)
+![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video2.jpg?raw=true)
+![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video3.jpg?raw=true)
+![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video4.jpg?raw=true)
+![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video5.jpg?raw=true)
+![alt text](https://github.com/azackmatoff/FLUTTER-VIDEO-TRIM-AND-CUT/blob/master/assets/images/video6.jpg?raw=true)
+
 
 
 
